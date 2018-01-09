@@ -1,2 +1,4 @@
 name: Léonard von Niederhäusern
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
